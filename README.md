@@ -17,5 +17,4 @@ model.h5: Saved model file (HDF5 format) for easy loading and deployment.
 <h4>Live Video Emotion Detection:</h4> After training the final model, it can detect emotions in real-time from a live video feed or webcam input.
 
 <h2>Achieved Accuracy :  81.05831742286682 %</h2>
-[[![Image alt](https://github.com/user-attachments/assets/b2cdfdbe-2c8f-4004-b368-e4e6ed706277)
-](https://github.com/Geogithub2005/Facial_Emotion_Recognition_using_CNN/issues/1#issue-2623838894)](https://github.com/Geogithub2005/Facial_Emotion_Recognition_using_CNN/issues/1#issue-2623838894)
+![Screenshot (897)](https://github.com/user-attachments/assets/37b34375-1cb5-402c-bcb3-aa61a0533dcf)
